@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "city": "cologne",
+  "locale": "zh",
+  "layout": "stacked",
+  "presentation": "world_map_and_rank",
+  "path": "docs/assets/visitors-by-country.zh.mobile.svg",
+  "sha256": "e5bd8b0f910ce45ee89ac0c63cc041b747fe2e4e967ed7c3a7cc30ae11520bbf",
+  "source_kind": "not_connected",
+  "collection_status": "not_connected",
+  "metric": null,
+  "source": null,
+  "generated_at_utc": null
+}

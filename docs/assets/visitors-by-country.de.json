@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "city": "cologne",
+  "locale": "de",
+  "layout": "wide",
+  "presentation": "world_map_and_rank",
+  "path": "docs/assets/visitors-by-country.de.svg",
+  "sha256": "6bacb0c1fc315d30ef293d31df458cfa9de7361f11272b69675c1532ab831be1",
+  "source_kind": "not_connected",
+  "collection_status": "not_connected",
+  "metric": null,
+  "source": null,
+  "generated_at_utc": null
+}
